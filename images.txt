@@ -1,1 +1,2 @@
-webdevops/php-apache:8.0
+technitium/dns-server
+jiangjuhong/dujiaoka
